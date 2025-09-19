@@ -1,0 +1,1 @@
+Common vector databases include FAISS, Chroma, Qdrant, and pgvector. LiteLLM provides a unified API for LLMs and embeddings, allowing you to switch providers easily. Cosine similarity is commonly used for nearest-neighbor search over normalized embeddings.
